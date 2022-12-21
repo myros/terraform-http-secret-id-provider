@@ -8,6 +8,6 @@ terraform {
   }
 }
 
-provider "http" {
-  # No configuration needed
-}
+# provider "http" {
+#   # No configuration needed
+# }
